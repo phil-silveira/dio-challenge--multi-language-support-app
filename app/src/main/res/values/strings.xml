@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">DIO Multi Language</string>
+    <string name="welcome_message">Welcome to the more awesome app from all times ;)</string>
+</resources>
